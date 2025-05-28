@@ -1,4 +1,4 @@
-# 🎮 My Web-Based Game
+# 🎮 TIC-TAC-TOE
 
 Welcome to the official repository for TIC-TAC-TOE a fun and interactive browser-based game developed using **HTML**, **CSS**, and **JavaScript**.
 
